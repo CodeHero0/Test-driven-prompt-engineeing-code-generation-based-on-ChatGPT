@@ -2,7 +2,7 @@
 
 
 ## Datasets
-There are links to the datasets we used in our experiments. (Below are the instructions on how to download and prepare the dataset)
+There are links to the datasets and projects we used in our experiments. (Below are the instructions on how to download and prepare the dataset)
 
 [HumanEval](https://github.com/openai/human-eval) 
 
