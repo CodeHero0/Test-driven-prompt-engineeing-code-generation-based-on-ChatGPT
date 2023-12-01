@@ -8,7 +8,7 @@ There are links to the datasets we used in our experiments. (Below are the instr
 
 1. Click the link will redirect you to the human-eval homepage. On the homepage, in the homepage, you can download the data from '.\data\HumanEval.jsonl.gz'.
 2. Decompress the file, then you get the dataset ''.\data\HumanEval.jsonl'
-3. Due to the dataset are not perfect for the experiment, we use script [Modify_HumanEval.py](https://github.com/CodeHero0/Stability-of-ChatGPT-in-Code-Generation/blob/main/Modify_HumanEval.py) to reshape the HumanEval dataset.
+3. Due to the dataset are not perfect for the experiment, we use script [Modify_HumanEval.py](https://github.com/CodeHero0/Test-driven-prompt-engineeing-code-generation-based-on-ChatGPT/blob/main/Modify_HumanEval.py) to reshape the HumanEval dataset.
 
 [APPS](https://github.com/hendrycks/apps)
 1. Click the link will redirect you to the apps homepage.
@@ -18,7 +18,7 @@ There are links to the datasets we used in our experiments. (Below are the instr
 
 [EvalPlus](https://github.com/evalplus/evalplus)
 1. Follow the instructions of EvalPlus, and install the Evalplus library
-2. Use the script file 'generate_dataset_HumanEval_plus.py' to generate HumanEval dataset with a new test case set
+2. Use the script file [generate_dataset_HumanEval_plus.py](https://github.com/CodeHero0/Test-driven-prompt-engineeing-code-generation-based-on-ChatGPT/blob/main/generate_dataset_HumanEval_plus.py) to generate HumanEval dataset with a new test case set
 
 
 ## Experiments
