@@ -17,7 +17,7 @@ There are links to the datasets we used in our experiments. (Below are the instr
 
 [EvalPlus](https://github.com/evalplus/evalplus)
 1. Follow the instructions of EvalPlus, and install the Evalplus library
-2. 
+2. Use the script file 'generate_dataset_HumanEval_plus.py' to generate HumanEval dataset with a new test case set
 
 
 ## Experiments
