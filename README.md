@@ -29,7 +29,7 @@ We use generate_response.py to generate responses with three code problem datase
 
 
 ```sh
-python generate.py -d HumanEval -m gpt-3.5-turbo -n 5 -t 1 -s 0 
+python generate.py -d HumanEval -m gpt-3.5-turbo -n 1 -t 1 -s 0 
 ```
 
 Some bugs might occur in running this script:
@@ -44,7 +44,7 @@ Some bugs might occur in running this script:
 We use `analyze.py` to generate intermedia based on the test cases and responses we get in the first step, intermedia results will be stored in `'.\log\intermediate_result\'`. (Below is the example command to run this script)
 
 ```sh
-python analyze.py -f log/dataset_APPS_model_gpt-3.5-turbo_topn_5_temperature_0.0.log_0
+python analyze.py -f log/dataset_APPS_model_gpt-3.5-turbo_topn_1_temperature_0.0.log_0
 ```
 Some bugs might occur in running this script:
 1. The parameter after -f should start with `'log/'`
