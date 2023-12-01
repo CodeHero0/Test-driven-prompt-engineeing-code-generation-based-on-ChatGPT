@@ -1,6 +1,7 @@
 # Test-driven-prompt-engineeing-code-generation-based-on-ChatGPT
 
-![alt text](https://github.com/CodeHero0/Test-driven-prompt-engineeing-code-generation-based-on-ChatGPT/blob/main/overview.pdf)
+file:///home/shuyinouyang/Downloads/overview.pdf
+
 
 ## Datasets
 There are links to the datasets we used in our experiments. (Below are the instructions on how to download and prepare the dataset)
